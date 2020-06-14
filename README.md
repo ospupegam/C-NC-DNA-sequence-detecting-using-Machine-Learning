@@ -12,5 +12,4 @@ K-Nearest Neighbor algorithm
 Perceptron algorithm 
 ---------------------
 BY:
-Mohamed Ahmed Mohamed Emam
-Amna Ali Shaheen Mohamed
+Mohamed Ahmed Mohamed Emam - Amna Ali Shaheen Mohamed
