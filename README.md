@@ -11,3 +11,6 @@ Logistic Regression algorithm
 K-Nearest Neighbor algorithm
 Perceptron algorithm 
 ---------------------
+BY:
+Mohamed Ahmed Mohamed Emam
+Amna Ali Shaheen Mohamed
