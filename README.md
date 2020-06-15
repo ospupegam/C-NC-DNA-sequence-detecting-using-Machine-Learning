@@ -11,7 +11,9 @@ Logistic Regression algorithm
 K-Nearest Neighbor algorithm
 Perceptron algorithm 
 ---------------------
- Conclusion , this project conclude logistic regression then Perceptron ( supervised learning, linear classifier ) is the best model for detecting coding DNA sequences from noncoding DNA sequences using chaos game representation approach. may be because the logistic regression & perceptron is an algorithms for learning a binary classifier, and gradient descent to reach best decision boundary.
+In conclusion, from point 1 and 2 , from Sensitivity and cross validation the Perceptron is the best, and from Accuracy the Logistic regression is the best.
+
+So, In this project we conclude Perceptron and logistic regression ( supervised learning, linear clasifier ) are the best models for detecting coding DNA sequences from noncoding DNA sequences using chaos game represntation approach. may be because the logistic regression & perceptron is an algorithms for learning a binary classifier, and gradient descent to reach best decision boundary.
  -----------------
 BY:
 Mohamed Ahmed Mohamed Emam - Amna Ali Shaheen Mohamed
